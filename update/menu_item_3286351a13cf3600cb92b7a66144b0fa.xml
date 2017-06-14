@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="menu_item">
+    <menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <detail_page/>
+        <iframe/>
+        <image/>
+        <logged_on>false</logged_on>
+        <menu_section display_value="Finance">0fbee55213c33600d80074c66144b02d</menu_section>
+        <name>Accounts Receivable</name>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>menu_item</sys_class_name>
+        <sys_created_by>hsgill</sys_created_by>
+        <sys_created_on>2017-06-01 17:36:21</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>3286351a13cf3600cb92b7a66144b0fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Accounts Receivable</sys_name>
+        <sys_package display_value="Finance" source="x_ahho_finance">45c70d9e13433600d80074c66144b028</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Finance">45c70d9e13433600d80074c66144b028</sys_scope>
+        <sys_update_name>menu_item_3286351a13cf3600cb92b7a66144b0fa</sys_update_name>
+        <sys_updated_by>hsgill</sys_updated_by>
+        <sys_updated_on>2017-06-01 17:36:21</sys_updated_on>
+        <tag/>
+        <target>internal</target>
+        <type>url</type>
+        <url/>
+    </menu_item>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>image</file_name>
+        <image_height/>
+        <image_width/>
+        <size_bytes>164</size_bytes>
+        <size_compressed>178</size_compressed>
+        <sys_created_by>hsgill</sys_created_by>
+        <sys_created_on>2017-06-06 13:43:19</sys_created_on>
+        <sys_id>996176f713c7b600d80074c66144b0ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>hsgill</sys_updated_by>
+        <sys_updated_on>2017-06-06 13:43:19</sys_updated_on>
+        <table_name>ZZ_YYmenu_item</table_name>
+        <table_sys_id>3286351a13cf3600cb92b7a66144b0fa</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="996176f713c7b600d80074c66144b0ea">996176f713c7b600d80074c66144b0ea</sys_attachment>
+        <sys_created_by>hsgill</sys_created_by>
+        <sys_created_on>2017-06-06 13:43:19</sys_created_on>
+        <sys_id>d96176f713c7b600d80074c66144b0ea</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLSLCDMwcTAwBg4xXI/kCNZ4hpREpyfVlKeWJTK4JiSn5Sq4JmbmJ4alJqYUll4MtUGqMjN08UxpOJWEkfsTy6FBokGCSDxRf3Oqfs/RYEsR5+2/z6TmGy2z6tn4TBwW7Bg8zydx///V+vZJyb+/fLlwsTl/yUlJSqWMh4Ok0yV3qDhCjSRwdPVz2WdU0ITAKhDEMakAAAA</data>
+        <length>224</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="996176f713c7b600d80074c66144b0ea">996176f713c7b600d80074c66144b0ea</sys_attachment>
+        <sys_created_by>hsgill</sys_created_by>
+        <sys_created_on>2017-06-06 13:43:19</sys_created_on>
+        <sys_id>5d6176f713c7b600d80074c66144b0ea</sys_id>
+    </sys_attachment_doc>
+</record_update>
